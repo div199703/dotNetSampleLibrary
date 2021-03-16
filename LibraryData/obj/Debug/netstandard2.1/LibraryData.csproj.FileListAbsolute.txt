@@ -1,0 +1,9 @@
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\bin\Debug\netstandard2.1\LibraryData.deps.json
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\bin\Debug\netstandard2.1\LibraryData.dll
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\obj\Debug\netstandard2.1\LibraryData.csprojAssemblyReference.cache
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\obj\Debug\netstandard2.1\LibraryData.AssemblyInfoInputs.cache
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\obj\Debug\netstandard2.1\LibraryData.AssemblyInfo.cs
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\bin\Debug\netstandard2.1\LibraryData.pdb
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\obj\Debug\netstandard2.1\LibraryData.dll
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\obj\Debug\netstandard2.1\LibraryData.pdb
+C:\proj\aspNet\LibraryManagement_v2\LibraryData\obj\Debug\netstandard2.1\LibraryData.csproj.CoreCompileInputs.cache
